@@ -72,6 +72,3 @@ Full source lists are in each file.
 - The beta comes from a single data provider and the measurement window isn't disclosed, so the Sensitivity tab flexes it.
 - Minority interest at Stöferle is an estimate built from the stake purchase price.
 
-## How this was built
-
-Built with Claude (Anthropic) as an AI research and modelling assistant. Every number traces back to a cited source or a stated assumption, so each one can be checked and challenged.
